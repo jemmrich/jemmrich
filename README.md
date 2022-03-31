@@ -1,10 +1,10 @@
 # 👨🏻‍💼 Professional Experience (12+ years)
 
-* Senior Engineer - PagerDuty Inc. - Current
+* Senior Software Engineer - PagerDuty Inc. - Current
 * Engineering Manager - Instacart Inc.
 * Founder - MotoRegistry Inc.
-* Senior Engineer - Empatico Inc.
-* Senior Engineer - Conceptual Pathways Inc.
+* Senior Software Engineer - Empatico Inc.
+* Senior Software Engineer - Conceptual Pathways Inc.
 
 # 👷🏻‍♂️ Personal Projects
 ## ☄️ Asteroids
