@@ -7,13 +7,12 @@
 * Senior Engineer - Conceptual Pathways Inc.
 
 # 👷🏻‍♂️ Personal Projects
-
-<a href="https://gsx-asteroids.herokuapp.com/"><img src="https://raw.githubusercontent.com/jemmrich/jemmrich/master/portfolio/asteroids.png" width="300px" style="float: left; margin-right: 15px" /></a>
-
 ## ☄️ Asteroids
 The classic game of Asteroids. Built from scratch to learn more about ThreeJs and game development. Continuously experimenting with different methods of collision detection, scene management, vectors, meshes and state machines.
 
-Demo: [https://gsx-asteroids.herokuapp.com/](https://gsx-asteroids.herokuapp.com/)
+<a href="https://gsx-asteroids.herokuapp.com/"><img src="https://raw.githubusercontent.com/jemmrich/jemmrich/master/portfolio/asteroids.png" width="300px"/></a>
+
+Live Demo: [https://gsx-asteroids.herokuapp.com/](https://gsx-asteroids.herokuapp.com/)
 
 <hr style="clear: both;" />
 
