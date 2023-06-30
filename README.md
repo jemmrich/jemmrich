@@ -1,4 +1,4 @@
-# 👨🏻‍💼 Professional Experience (12+ years)
+# 👨🏻‍💼 Professional Experience
 
 * Senior Software Engineer - PagerDuty Inc. - Current
 * Engineering Manager - Instacart Inc.
