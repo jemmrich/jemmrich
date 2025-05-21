@@ -14,6 +14,8 @@ The classic game of Asteroids. Built from scratch to learn more about ThreeJs an
 
 Live Demo: [https://gsx-asteroids.herokuapp.com/](https://gsx-asteroids.herokuapp.com/)
 
+<!--
 ----
 
 ![Profile Views](https://raw.githubusercontent.com/jemmrich/my-github-profile-views-counter/master/svg/profile/badge.svg)
+-->
