@@ -10,7 +10,7 @@
 ## ☄️ Asteroids
 The classic game of Asteroids. Built from scratch to learn more about ThreeJs and game development. Continuously experimenting with different methods of collision detection, scene management, vectors, meshes and state machines.
 
-<a href="https://gsx-asteroids.herokuapp.com/"><img src="https://raw.githubusercontent.com/jemmrich/jemmrich/master/portfolio/asteroids.png" width="300px"/></a>
+<a href="https://asteroids.lwp.ca/"><img src="https://raw.githubusercontent.com/jemmrich/jemmrich/master/portfolio/asteroids.png" width="300px"/></a>
 
 Live Demo: [https://asteroids.lwp.ca/](https://asteroids.lwp.ca/)
 
