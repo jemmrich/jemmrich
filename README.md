@@ -12,7 +12,7 @@ The classic game of Asteroids. Built from scratch to learn more about ThreeJs an
 
 <a href="https://asteroids.lwp.ca/"><img src="https://raw.githubusercontent.com/jemmrich/jemmrich/master/portfolio/asteroids.png" width="300px"/></a>
 
-Live Demo: [https://asteroids.lwp.ca/](https://asteroids.lwp.ca/)
+Live Demo: [https://asteroids.philtech.ventures/](https://asteroids.philtech.ventures/)
 
 <!--
 ----
